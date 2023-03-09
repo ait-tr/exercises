@@ -109,7 +109,6 @@ Sie im Ordner Entwurf das Klassendiagramm. Nehmen Sie ein Format, welches
 Sie später noch einmal verändern können und denken Sie ggf. in Zukunft daran
 die Datei aktuell zu halten.
 
-[Solution java](https://bitbucket.org/prokopchukmmm/programmier_hausaufgaben_mariia_2/
-src/master/KomplexeUebungenRechteck/)
+[Solution java](https://bitbucket.org/prokopchukmmm/programmier_hausaufgaben_mariia_2/src/master/KomplexeUebungenRechteck/)
 
 ---
